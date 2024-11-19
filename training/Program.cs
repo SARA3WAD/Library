@@ -5,7 +5,7 @@ using training.Repos;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+//commenrtwseifkocd.xc
 
 
 builder.Services.AddControllers();
